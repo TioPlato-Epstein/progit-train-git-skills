@@ -1,0 +1,1 @@
+This code repository was created with the intention of training in git usage skills only, there is no need to accept external commits.

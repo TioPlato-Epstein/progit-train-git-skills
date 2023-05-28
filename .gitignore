@@ -1,0 +1,10 @@
+# vscode workspace settings
+.vscode/
+
+# compiled output
+*.i
+*.s
+*.o
+
+# excutable files
+*.exe
