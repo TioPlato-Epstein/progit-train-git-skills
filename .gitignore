@@ -1,5 +1,8 @@
-# vscode workspace settings
+# vscode folder
 .vscode/
+
+# doc folder
+doc/
 
 # compiled output
 *.i
